@@ -1,0 +1,51 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/styles/registrationComponent.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/styles/registrationform.module.css */
+.registrationComponent_registrationForm__MpYv2 {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .registrationComponent_formGroup__Y4dyK {
+    margin-bottom: 1rem;
+  }
+  
+  .registrationComponent_label__jlyLs {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .registrationComponent_input__s7oIm {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .registrationComponent_errorMsg__rrGqW {
+    color: red;
+    margin-bottom: 0.5rem;
+  }
+  
+  .registrationComponent_successMsg__MeTQy {
+    color: green;
+    margin-bottom: 0.5rem;
+  }
+  
+  .registrationComponent_button__Za0kf {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .registrationComponent_button__Za0kf:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

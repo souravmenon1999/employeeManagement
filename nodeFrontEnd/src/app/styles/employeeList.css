@@ -1,0 +1,11 @@
+.profilesection{
+
+    height: 30px !important;
+    width: max-content !important;
+}
+
+.profilesection img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}

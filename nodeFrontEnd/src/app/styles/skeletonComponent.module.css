@@ -1,0 +1,42 @@
+.skeletonWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .skeletonHeader,
+  .skeletonFooter {
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+  }
+  
+  .skeletonBody {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .skeletonAvatar {
+    width: 50px;
+    height: 50px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+  }
+  
+  .skeletonContent {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex-grow: 1;
+  }
+  
+  .skeletonLine {
+    height: 12px;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+  }
+  

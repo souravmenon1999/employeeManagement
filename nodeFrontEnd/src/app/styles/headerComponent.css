@@ -1,0 +1,52 @@
+.main-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-left: 15px;
+  }
+  
+  .main-page-header-title {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .main-page-header-title-1 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #707eae;
+  }
+  
+  .main-page-header-title-2 {
+    font-size: 34px;
+    font-weight: 700;
+    color: #2b3674;
+  }
+  
+  .main-page-header-search-section {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .search-bar {
+    background: white;
+    border-radius: 31px;
+    padding: 11px;
+  }
+  
+  .search-bar input {
+    width: 214px;
+    border-radius: 49px;
+    padding-left: 30px;
+    border: none;
+    background-color: #f4f7fe;
+  }
+  
+  .face-pic img {
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  

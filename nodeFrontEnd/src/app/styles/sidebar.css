@@ -1,0 +1,57 @@
+:root {
+    --sidebar-background-color: linear-gradient(#301F81, #0F0441);
+  }
+  
+  .sidebar {
+    background-image: var(--sidebar-background-color);
+    color: #FFFFFF;
+    height: 100vh;
+    
+  }
+  
+  .sidebar-body {
+    height: 71%;
+    padding-left: 39px;
+  }
+  
+  .sidebar-title {
+    padding-top: 21px;
+    padding-left: 29px;
+    padding-bottom: 8px;
+    font-size: 23px;
+  }
+  
+  .sidebar-title-1 {
+    font-weight: 700;
+  }
+  
+  .sidebar-title-2 {
+    font-weight: 300;
+  }
+  
+  .sidebar-body-links {
+    padding-top: 17px;
+  }
+  
+  .link {
+    margin-right: 39px;
+    padding-left: 39px;
+    font-size: 16px;
+    font-weight: 500;
+    gap: 11px;
+    padding-bottom: 17px;
+    padding-top: 17px;
+    cursor: pointer;
+  }
+  
+  .sidebar-footer {
+    font-size: 12px;
+    font-weight: 500px;
+    padding: 25px;
+    gap: 10px;
+  }
+  
+  .sidebar-footer img {
+    max-width: 110px;
+  }
+  

@@ -1,0 +1,55 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/styles/loginform.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/styles/loginform.module.css */
+.loginform_loginForm__58_xK {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.loginform_formGroup__QcD_Y {
+  margin-bottom: 15px;
+}
+
+.loginform_label__88rAo {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.loginform_input__rBnrN {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.loginform_error__tEnkH {
+  color: red;
+  margin-bottom: 15px;
+}
+
+.loginform_bottom-section__XjTVh{
+
+  align-items: center;
+}
+
+.loginform_button__UHEAw {
+  padding: 10px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.loginform_button__UHEAw:hover {
+  background-color: #005bb5;
+}
+
+.loginform_bottom__Onfqr{
+  align-items: center;
+    display: flex;
+    flex-direction: inherit;
+
+}
+
