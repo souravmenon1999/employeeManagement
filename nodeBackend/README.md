@@ -19,7 +19,7 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/project-name.git
+    git clone https://github.com/souravmenon1999/employeeManagement/tree/main
     ```
 
 2. Navigate to the project directory:
